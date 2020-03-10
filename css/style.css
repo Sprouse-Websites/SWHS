@@ -1,0 +1,99 @@
+/* Headings */
+
+heading1 {
+    display:block;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18pt;
+    color: #009;
+}
+
+heading2 {
+    display:block;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 17pt;
+    color: #00c;
+}
+
+heading3 {
+    display:block;
+    font-weight: bold;
+    font-size: 17pt;
+    color: #00d;
+}
+
+/* Other CSS */
+
+.hidden {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  background-color: #eee;
+}
+
+.header1 {
+  background-color: #1f567d;
+  text-align: center;
+  padding: 25pt;
+}
+
+.site-title {
+  color: white;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.site-description {
+  margin: 0 30px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Gentium Basic", Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.header2 {
+  background: #1b4b6d;
+  text-align: center;
+  padding: 5pt;
+}
+
+tbody {
+  vertical-align: top;
+}
+
+.primary {
+  width: 93%;
+}
+
+.article {
+  background-color: white;
+  border-radius: 15pt;
+  padding: 5pt;
+  padding-left: 12pt;
+  margin: 3pt;
+}
+
+a.path {
+  background-color: #fefefe;
+}
+
+h2 {
+  color: #283d4b;
+  font-family: 'Lato', sans-serif;
+  font-weight: 800;
+  font-size: 2em;
+}
+
+footer {
+	border-top: #1f567d solid 1pt;
+  background-color: #ccc;
+  padding: 5pt;
+  font-size: 8pt;
+}
